@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**cdaekim/cdaekim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Christopher Dae Kim (no relation to Daniel Dae Kim), or just Chris. Data Analyst with expertise in data analysis/reporting/visualization/modelling and machine learning. M.S. in Analytics from Georgia Tech.
 
-Here are some ideas to get you started:
+Here's a quick list of my skills:
+- Data analysis and reporting in Excel
+- Developing dashboards and information solutions in Power BI
+- Implementing ETL pipelines with Python and Power Query into Excel Worksheets, PowerPivot Data Model, and Power BI Desktop Data Model
+- Querying data using SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Projects
+
+Here's a link to my portfolio where I showcase my projects and the various skills utilized: 
+
+### 🛠️ Tools
+- Language: SQL, Python
+- Database: MySQL
+- Visualization: Power BI, Tableau
+
+### 📫 How to reach me
+- [Linkedin](https://www.linkedin.com/in/christopher-daehyun-kim/)
