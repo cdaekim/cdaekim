@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Christopher Dae Kim (no relation to Daniel Dae Kim), or just Chris. Data Analyst with expertise in data analysis/reporting/visualization/modelling and machine learning. M.S. in Analytics from Georgia Tech.
+I'm Christopher Dae Kim (no relation to Daniel Dae Kim), or just Chris. Data Analyst with expertise in data analysis/reporting/visualization/modelling and machine learning. M.S. in Analytics from Georgia Tech. B.A. in Chemistry with minior in Math from Manhattan University.
 
 Here's a quick list of my skills:
 - Data analysis and reporting in Excel
